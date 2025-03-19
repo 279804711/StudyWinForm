@@ -1,0 +1,11 @@
+D:\WinFormProjects\StudyWinform\StudyWinform\bin\Debug\StudyWinform.exe.config
+D:\WinFormProjects\StudyWinform\StudyWinform\bin\Debug\StudyWinform.exe
+D:\WinFormProjects\StudyWinform\StudyWinform\bin\Debug\StudyWinform.pdb
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.csproj.AssemblyReference.cache
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.Form1.resources
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.Properties.Resources.resources
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.csproj.GenerateResource.cache
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.csproj.CoreCompileInputs.cache
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.exe
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.pdb
+D:\WinFormProjects\StudyWinform\StudyWinform\obj\Debug\StudyWinform.index.resources
